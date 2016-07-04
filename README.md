@@ -2,12 +2,12 @@
 Simplest javascript image gallery for any site
 #How to use#
 Just run function aYGallery with parameter array of your images for current gallery
-<a href="javascript:var imagesArray = [
-                           			(getSiteUrl()+'images/image1.jpg'),
-									              (getSiteUrl()+'images/image2.jpg'),
-									              (getSiteUrl()+'images/image3.jpg')];
-									              aYGallery(imagesArray);">
-								   Open Gallery Link </a>
+```
+<a href="javascript:var imagesArray = [(getSiteUrl()+'images/image1.jpg'),
+					(getSiteUrl()+'images/image2.jpg'),
+					(getSiteUrl()+'images/image3.jpg')];
+			 aYGallery(imagesArray);">Open Gallery Link </a>
+```
 #How to install#
 1. Add adamofsky-gallery-1.0.js file and images folder to your project/js folder (total 52kb).
 2. Add to your meta tag <script type="text/javascript" src="js/adamofsky-gallery-1.0.js"></script>
