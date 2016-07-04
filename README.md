@@ -22,7 +22,7 @@ Required jquery library to be added to your project, you can download it from ht
 #Limitation#
 No limitation, use how many images you want and any formats you want
 
-(IF YOUR IMAGE IS TRANSPORENT IN THE CENTER YOU WILL NEED TO DISABLE PROGRESS CIRCLE IMAGE, JUST DELETE IT IN IMAGES/LOADER.GIF).
+(IF YOUR IMAGE IS TRANSPORENT IN THE CENTER YOU WILL NEED TO DISABLE PROGRESS CIRCLE IMAGE, JUST DELETE IT IN JS/IMAGES/LOADER.GIF).
 
 #Note#
 If you working on your project on your computer hard disk you need to change return variable in function getSiteUrl() in adamofsky-gallery-1.0.js file.
