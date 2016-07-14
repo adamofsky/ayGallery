@@ -1,6 +1,7 @@
 #AYGallery#
 Simplest javascript image gallery for any site
-Example http://adamofsky.com/aygallery/
+
+Example: http://adamofsky.com/aygallery/
 #How to use#
 Just run function ayGallery with parameter array of your images for current gallery
 ```
