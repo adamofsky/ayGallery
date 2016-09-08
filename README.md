@@ -28,6 +28,6 @@ No limitation, use how many images you want and any formats you want
 
 #Note#
 If you working on your project on your computer hard disk you need to change return variable in function getSiteUrl() in adamofsky-gallery-1.0.js file.
-Change it from 'networkURL' to 'parsedURL', and before you uploading your project to the server change it back to 'networkURL'.
+Change it from 'networkURL' to 'computerURL', and before you uploading your project to the server change it back to 'networkURL'.
 
 #Enjoy#
