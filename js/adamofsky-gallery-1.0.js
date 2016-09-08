@@ -147,12 +147,9 @@
 		}
 	}
 	function getSiteUrl(){
-		//if you working on your computer change return parsedUrl to return networkURL value
-		var computerPath = document.location.href;
+		//if you working on your computer change return var computerPath to to your computerPath and change return networkURL value
+		var computerPath = "";
 		var networkURL = document.location.origin;
-		var parsedURL = "";
-		for(var i = 0; i < computerPath.length-12; i++){
-			parsedURL = parsedURL+computerPath[i];
-		}
+
 		return networkURL;
 	}
